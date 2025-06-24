@@ -4,9 +4,6 @@
 - 🔭 I am an entrepreneur & software developer from the land of samurais and ninjas. [the app lab](https://theapplab.co.za)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
 - ❓ Ask me about anything related to React, Django or python & javascript related technologies  
   
 
